@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9c44d1529c44684d9f1f5e5ae3fe23e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216860
+  packageName: Stylized House Sample
+  packageVersion: 1.0
+  assetPath: Assets/RadiosityGames/StylizedHouseUnique/Materials/StylizedTownMat.mat
+  uploadId: 490196
